@@ -1,0 +1,2 @@
+# MiningCoin
+MiningCoin
